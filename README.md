@@ -30,6 +30,7 @@ You are required to model the price of houses with the available independent var
 
 ## Table of Contents
 * train.csv - Dataset
+* data_description.txt - Description about the contents of dataset
 * linear_regression.ipynb - Code (part I of the assignment)
 * Subjuctive questions - Answers.pdf - Answers to part II of the assignment
 
